@@ -1,0 +1,11 @@
+MPU_9250.c:26:6:MPU9250_Init	32	static
+MPU_9250.c:53:6:initAK8963	32	static
+MPU_9250.c:80:6:MPU9250_Read_Accel	32	static
+MPU_9250.c:93:6:MPU9250_Read_Gyro	32	static
+MPU_9250.c:106:6:MPU9250_Read_Temp	32	static
+MPU_9250.c:113:6:MPU9250_Read_Mag	32	static
+MPU_9250.c:125:6:MPU9250_DistanceAngle	4	static
+MPU_9250.c:128:6:MPU9250_LectureWithFilter	520	static
+MPU_9250.c:164:6:MPU9250_CalibracionAG	56	static
+MPU_9250.c:264:6:MPU9250_CalibracionMag	48	static
+MPU_9250.c:316:6:zeros	16	static
